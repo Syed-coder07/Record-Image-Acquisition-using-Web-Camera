@@ -122,11 +122,11 @@ Output:
 
 1-Capture the image
 
-<img width="624" height="477" alt="image" src="https://github.com/user-attachments/assets/da9e733a-79e1-4d55-8d5e-051e42d16c88" />
+<img width="616" height="512" alt="image" src="https://github.com/user-attachments/assets/de92cadc-b85d-41d6-a82e-a191d54d5732" />
 
 2-Display the video
 
-<img width="616" height="512" alt="image" src="https://github.com/user-attachments/assets/de92cadc-b85d-41d6-a82e-a191d54d5732" />
+<img width="624" height="477" alt="image" src="https://github.com/user-attachments/assets/da9e733a-79e1-4d55-8d5e-051e42d16c88" />
 
 3- Display the video by resizing the window
 
